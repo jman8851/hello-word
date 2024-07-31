@@ -1,2 +1,3 @@
 # hello-word
 This repository is for practicing the GitHub Flow.
+My name is Jason Caldwell. I am excited to begin this tech journey and learn new skills in a field I have considered a hobby. I have been in healthcare most of my life and have always loved it and done tech as a hobby. I have now moved into the tech world by accepting a position to help manage the EHR software at the hospital. I have fell in love all over again and have decided to go all in with tech. My clinical knowledge will be of value as I am sure I will be able to develop skills to help the healthcare world. I am looking forward to learning and gaining new skills.
